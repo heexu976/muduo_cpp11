@@ -49,7 +49,6 @@ public:
     LogStream& operator<<(const GeneralTemplate& g);
 
 private:
-
     static const int kMaxNumericSize = 48;
 
     template<typename T>
