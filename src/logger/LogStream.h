@@ -52,7 +52,7 @@ private:
     static const int kMaxNumericSize = 48;
 
     template<typename T>
-    void fromatInteger(T);
+    void formatInteger(T);
 
     Buffer buffer_;
 
